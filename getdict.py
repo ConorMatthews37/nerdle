@@ -1,3 +1,5 @@
+#Generates a list of "words" that contains every possible nerdle solution
+
 import re
 cache = {}
 
