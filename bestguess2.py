@@ -1,3 +1,6 @@
+#Uses the same logic as bestguess, but combines the information gain from making the given first guess and the optimal second guess
+#This won't necessarily return the best first guess for a human to make, because they aren't guaranteed to know the optimal second guess
+
 import getdict
 import itertools
 import math
