@@ -1,3 +1,7 @@
+#User can interact with this solver through the terminal and input info to get the best guess at each step
+#Narrows the dictionary down to only valid solutions
+#Best guess is based on entropy from current guess
+
 import getdict
 import math
 from collections import defaultdict
