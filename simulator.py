@@ -1,3 +1,5 @@
+#I wanted to see how this performed so I made this to run a bunch of simulations
+
 import getdict
 import random
 import math
