@@ -1,3 +1,6 @@
+#Orders every possible guess by the information gain from making that guess first
+#Writes list to .txt
+
 import getdict
 import math
 from collections import defaultdict
